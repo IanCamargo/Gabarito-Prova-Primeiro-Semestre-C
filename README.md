@@ -75,6 +75,4 @@ gabarito.exe
 Este projeto está disponível sob a Licença MIT.
 
 ## 📬 Contato
-Para dúvidas ou sugestões:
-📧 ian.camargo@fatec.sp.gov.br
-📁 Ou abra uma issue neste repositório.
+Para dúvidas ou sugestões: ian.camargo@fatec.sp.gov.br | Ou abra uma issue neste repositório.
