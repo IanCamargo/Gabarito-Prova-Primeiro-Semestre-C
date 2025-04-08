@@ -10,7 +10,6 @@ O programa apresenta um menu interativo com diversos exercícios:
 - **Exercício 2:** Calcula o IMC (Índice de Massa Corporal) com base no peso e altura informados.
 - **Exercício 3:** Verifica se os três lados informados podem formar um triângulo.
 - **Exercício 4:** Leitura de 5 números, mostrando a contagem dos pares e ímpares, além de identificar o maior número par e o menor número ímpar.
-- **Exercício 5:** Encerra o programa.
 
 Cada exercício possui sua própria lógica de repetição, permitindo que o usuário execute o exercício quantas vezes desejar antes de retornar ao menu principal.
 
